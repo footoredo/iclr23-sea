@@ -1,2 +1,1 @@
-# iclr23-sea
-The official repository for ICLR 2023 submission "Learning Achievement Structure for Structured Exploration in Domains with Sparse Reward"
+This repo has been movied to [here](https://github.com/pairlab/iclr-23-sea).
