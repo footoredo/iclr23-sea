@@ -1,1 +1,1 @@
-# This repo has been movied to [here](https://github.com/pairlab/iclr-23-sea).
+# This repo has been moved to [here](https://github.com/pairlab/iclr-23-sea).
